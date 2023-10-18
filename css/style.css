@@ -80,3 +80,30 @@ letter-spacing: 1px;
     font-size: 20px;
 }
 
+.counters
+{
+    max-width: 420px;
+    width: 90%;
+    background-color: white;
+    padding: 2rem;
+    margin:  auto;
+    margin-top: 2rem;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    letter-spacing: 1px;
+    margin-bottom: 2rem;
+}
+
+h4{
+    color: black;
+    font-size: 14px;
+    font-style: italic;
+}
+
+
+
+
