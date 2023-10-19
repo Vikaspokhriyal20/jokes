@@ -82,7 +82,7 @@ letter-spacing: 1px;
 
 .counters
 {
-    max-width: 420px;
+    max-width: 600px;
     width: 90%;
     background-color: white;
     padding: 2rem;
@@ -101,9 +101,15 @@ letter-spacing: 1px;
 h4{
     color: black;
     font-size: 14px;
-    font-style: italic;
+    color: blueviolet;
 }
 
-
+.countbox
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.6rem;
+}
 
 
